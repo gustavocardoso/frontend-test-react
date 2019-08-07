@@ -20,11 +20,11 @@ const Footer = () => (
       <br />
       Repository:{' '}
       <a
-        href='https://github.com/gustavocardoso/frontend-test'
+        href='https://github.com/gustavocardoso/frontend-test-react'
         target='_blank'
         rel='noopener noreferrer'
       >
-        https://github.com/gustavocardoso/frontend-test
+        https://github.com/gustavocardoso/frontend-test-react
       </a>
     </p>
   </S.Footer>

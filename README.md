@@ -2,6 +2,13 @@
 
 This is an at-home exercise used as part of standard PayByPhone's interview process for frontend and full-stack developers.
 
+It was developed with:
+
+- [React](https://github.com/facebook/react)
+- [Styled Conponents](https://github.com/styled-components/styled-components)
+- [Styled Tools](https://github.com/diegohaz/styled-tools)
+- [Cypress](https://github.com/cypress-io/cypress)
+
 <img src="https://raw.githubusercontent.com/gustavocardoso/frontend-test/readme/screenshot.png?v=2" width="1000" />
 
 ## Installing and running
