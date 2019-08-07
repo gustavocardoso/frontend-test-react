@@ -14,11 +14,11 @@ It was developed with:
 ## Installing and running
 
 Just clone the project and install all the dependencies with `yarn install`.
-You can run it in development mode with `yarn run dev`
+You can run it in development mode with `yarn start`
 
 ## Build
 
-You can build the project by running `yarn run build` (files will be placed on dist/ folder). To see built project, just run `yarn run app` and point your browser to **http://localhost:8080**
+You can build the project by running `yarn build` (files will be placed on build/ folder).
 
 ## E2E Tests
 
