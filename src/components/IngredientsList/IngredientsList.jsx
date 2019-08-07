@@ -15,7 +15,7 @@ const IngredientsList = ({ list }) => (
     <S.Header>
       <Receipt className='icon-ingredients' />
       <S.Title>Ingredients</S.Title>
-      <S.Counter>(0)</S.Counter>
+      <S.Counter>({list.length})</S.Counter>
     </S.Header>
 
     {list.length === 0 && (
