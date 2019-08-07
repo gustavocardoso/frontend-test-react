@@ -80,3 +80,11 @@ export const Time = styled.span`
     }
   }
 `
+
+export const MessageBox = styled.p`
+  padding: ${theme('layout.paddingDefault')};
+
+  @media (${theme('mediaQuery.large')}) {
+    padding: ${theme('layout.paddingDefault')} calc(${theme('layout.paddingDefault')} * 2);
+  }
+`
