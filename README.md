@@ -26,7 +26,7 @@ To run E2E tests, just run the `yarn cypress:open` command.
 
 ## Demo
 
-You can see a demo here: [https://app-recipes.netlify.com/](https://app-recipes.netlify.com/)
+You can see a demo here: [https://app-recipes-react.netlify.com/](https://app-recipes-react.netlify.com/)
 
 ## Contact
 
