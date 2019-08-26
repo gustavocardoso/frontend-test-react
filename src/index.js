@@ -1,6 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import LogRocket from 'logrocket'
+
 import App from './App'
+
+LogRocket.init('mlmogy/recipes')
 // import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'))
